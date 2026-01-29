@@ -1,0 +1,16 @@
+{
+  "Mods": [
+    {
+      "Author": "NSangQ",
+      "Name": "BG3ChatMod",
+      "Folder": "Bg3ChatMod",
+      "Version": null,
+      "Description": "Real-time AI Chat Mod for Baldur's Gate 3",
+      "UUID": "2d17c97a-97c7-43f1-8f5b-123456789abc",
+      "Created": "2026-01-30T00:00:00Z",
+      "Dependencies": [],
+      "ForceLoad": false
+    }
+  ],
+  "MD5": ""
+}

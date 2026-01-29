@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+Server/.env
+Server/venv/
+
+# Project Specific
+bg3_chat_input.json
+bg3_chat_output.json
+
+# OS
+.DS_Store
+Thumbs.db
